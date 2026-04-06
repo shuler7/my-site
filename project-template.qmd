@@ -1,0 +1,76 @@
+---
+title: "Project Title"
+---
+
+::: {.project-page}
+
+::: {.project-kicker}
+Project
+:::
+
+# Project Title
+
+::: {.project-subtitle}
+One clear sentence explaining what the project is, what it does, and why it matters.
+:::
+
+::: {.project-hero}
+![Screenshot of project](images/project-placeholder.png)
+:::
+
+::: {.project-meta}
+::: {.project-meta-card}
+### Type
+Interactive analysis / dashboard / report / app
+:::
+
+::: {.project-meta-card}
+### Tools
+R, Shiny, Leaflet, Quarto
+:::
+
+::: {.project-meta-card}
+### Focus
+What problem this project helps solve
+:::
+:::
+
+## Overview { .project-section }
+
+This project began with a simple question: what would make this worth exploring in the first place? Use this section to define the problem in plain language.
+
+Explain what the user sees, what the tool or analysis does, and what kind of judgment or design choice was involved. Keep it concrete.
+
+::: {.project-pullquote}
+A good project page should not just say what was built. It should show why the project was worth building.
+:::
+
+## Why this project mattered { .project-section }
+
+Write 1–2 paragraphs about why the topic is interesting, what made the data or decision problem nontrivial, and what kind of user or question motivated the work.
+
+## What I built { .project-section }
+
+- First useful feature
+- Second useful feature
+- Third useful feature
+
+Then explain how those pieces fit together.
+
+## Data and tools { .project-section }
+
+Describe the data source, the software stack, and any major implementation choices.
+
+## What I learned { .project-section }
+
+This is where the writing can stand out. Reflect briefly on what the project taught you about analysis, communication, mapping, interface design, or data limitations.
+
+## Links { .project-section }
+
+::: {.project-links}
+[GitHub repository](https://github.com/your-link-here){.btn-primary}
+[Live app](https://your-link-here.com){.btn-secondary}
+[Back to projects](projects.qmd){.btn-secondary}
+:::
+
+:::

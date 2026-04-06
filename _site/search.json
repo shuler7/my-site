@@ -1,0 +1,184 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Shuler Hopkins",
+    "section": "",
+    "text": "Quantitative analysis, tutoring, and project support — done carefully, and explained clearly.\n\n\nI work with students, researchers, and small organizations on statistical and analytical problems that need more than a quick answer. My background is in mathematics, data science, and teaching, and I tend to approach projects with equal attention to correctness, clarity, and structure.\n\n\nServices Projects Contact\n\n\n\n\n\n\n\nData cleaning, exploratory analysis, regression, hypothesis testing, and interpretation for projects that need clear reasoning and useful results.\n\n\n\nOne-on-one support in statistics, calculus, and data analysis, with an emphasis on understanding rather than memorization.\n\n\n\nShort-term help with research workflows, technical writing, reports, and lightweight analytical tools built in R.\n\n\n\n\n\nI like work that is technically sound, visually clean, and honest about uncertainty. In practice, that usually means starting with the real question, keeping the methods proportionate to the problem, and communicating results in a way that another person can actually use.\n\n\n\nI have a Ph.D. in Mathematics and experience teaching mathematics, statistics, data science, and computer science. Much of my work has involved organizing difficult material, building structure around it, and making it more understandable to the people who need it.\n\n\n\nRight now, I am especially interested in applied statistics, analytical communication, education, and small tools that make quantitative work more approachable.\n\nBuilt with Quarto and R. Keeping things simple."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html#services",
+    "href": "index.html#services",
+    "title": "Home",
+    "section": "",
+    "text": "Data analysis help\nStatistics tutoring\nProject consulting"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Home",
+    "section": "",
+    "text": "Email: you@example.com"
+  },
+  {
+    "objectID": "services.html",
+    "href": "services.html",
+    "title": "Services",
+    "section": "",
+    "text": "I help clean, analyze, and interpret your data."
+  },
+  {
+    "objectID": "services.html#data-analysis",
+    "href": "services.html#data-analysis",
+    "title": "Services",
+    "section": "",
+    "text": "I help clean, analyze, and interpret your data."
+  },
+  {
+    "objectID": "services.html#tutoring",
+    "href": "services.html#tutoring",
+    "title": "Services",
+    "section": "Tutoring",
+    "text": "Tutoring\n1-on-1 support for statistics and data science."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Here are a few examples of analytical and technical work. Each project page includes a short writeup on the problem, the implementation, and what I learned from building it.\n\n\nTennessee Housing Trends\nAn interactive housing project built in R and Shiny, focused on home values and geographic comparison across Tennessee.\nRead project"
+  },
+  {
+    "objectID": "projects.html#example-1-basic-r-analysis",
+    "href": "projects.html#example-1-basic-r-analysis",
+    "title": "Projects",
+    "section": "",
+    "text": "Here is a quick summary of a built-in dataset:\n\nsummary(mtcars)\n\n      mpg             cyl             disp             hp       \n Min.   :10.40   Min.   :4.000   Min.   : 71.1   Min.   : 52.0  \n 1st Qu.:15.43   1st Qu.:4.000   1st Qu.:120.8   1st Qu.: 96.5  \n Median :19.20   Median :6.000   Median :196.3   Median :123.0  \n Mean   :20.09   Mean   :6.188   Mean   :230.7   Mean   :146.7  \n 3rd Qu.:22.80   3rd Qu.:8.000   3rd Qu.:326.0   3rd Qu.:180.0  \n Max.   :33.90   Max.   :8.000   Max.   :472.0   Max.   :335.0  \n      drat             wt             qsec             vs        \n Min.   :2.760   Min.   :1.513   Min.   :14.50   Min.   :0.0000  \n 1st Qu.:3.080   1st Qu.:2.581   1st Qu.:16.89   1st Qu.:0.0000  \n Median :3.695   Median :3.325   Median :17.71   Median :0.0000  \n Mean   :3.597   Mean   :3.217   Mean   :17.85   Mean   :0.4375  \n 3rd Qu.:3.920   3rd Qu.:3.610   3rd Qu.:18.90   3rd Qu.:1.0000  \n Max.   :4.930   Max.   :5.424   Max.   :22.90   Max.   :1.0000  \n       am              gear            carb      \n Min.   :0.0000   Min.   :3.000   Min.   :1.000  \n 1st Qu.:0.0000   1st Qu.:3.000   1st Qu.:2.000  \n Median :0.0000   Median :4.000   Median :2.000  \n Mean   :0.4062   Mean   :3.688   Mean   :2.812  \n 3rd Qu.:1.0000   3rd Qu.:4.000   3rd Qu.:4.000  \n Max.   :1.0000   Max.   :5.000   Max.   :8.000"
+  },
+  {
+    "objectID": "index.html#a-quantitative-approach-without-the-usual-noise",
+    "href": "index.html#a-quantitative-approach-without-the-usual-noise",
+    "title": "Shuler Hopkins",
+    "section": "A quantitative approach without the usual noise",
+    "text": "A quantitative approach without the usual noise\nA lot of technical work is either overcomplicated or oversold. I prefer something simpler: careful analysis, plain language, and results that another person can actually use.\nMy background is in mathematics, statistics, teaching, and project-based academic work. That means I am comfortable with technical detail, but I also know how to explain what matters and what does not."
+  },
+  {
+    "objectID": "index.html#selected-ways-i-can-help",
+    "href": "index.html#selected-ways-i-can-help",
+    "title": "Shuler Hopkins",
+    "section": "Selected ways I can help",
+    "text": "Selected ways I can help\n\n\nStatistical analysis\nHelp with data cleaning, exploratory analysis, regression, hypothesis testing, and interpretation.\nGood fit for research projects, theses, and applied questions where the data is already there but the next step is unclear.\n\n\nQuantitative tutoring\nOne-on-one help in statistics, calculus, data analysis, and related coursework.\nEspecially useful for students who want more than formula memorization and need someone who can explain the logic behind the methods.\n\n\nProject support\nShort-term analytical support for people working on reports, dashboards, technical writing, or decision-making tools.\nThis is best for projects that need structure, clarity, and a steady hand more than buzzwords."
+  },
+  {
+    "objectID": "index.html#a-better-default",
+    "href": "index.html#a-better-default",
+    "title": "Shuler Hopkins",
+    "section": "A better default",
+    "text": "A better default\nI like work that is: - technically sound - visually clean - honest about uncertainty - useful to someone besides the person who made it\nThat applies whether I am helping with a dataset, building a small tool, or explaining a statistical idea to someone seeing it for the first time."
+  },
+  {
+    "objectID": "index.html#a-few-things-i-value",
+    "href": "index.html#a-few-things-i-value",
+    "title": "Shuler Hopkins",
+    "section": "A few things I value",
+    "text": "A few things I value\n\n\nPrecision\nNot showing off. Just getting the details right.\n\n\nClarity\nGood analysis should survive contact with ordinary language.\n\n\nRestraint\nNot every project needs a model. Not every result needs a dashboard.\n\n\nUsefulness\nThe point is not to sound technical. The point is to help someone decide, understand, or finish something."
+  },
+  {
+    "objectID": "index.html#current-focus",
+    "href": "index.html#current-focus",
+    "title": "Shuler Hopkins",
+    "section": "Current focus",
+    "text": "Current focus\nRight now, I am especially interested in projects at the intersection of: - applied statistics - data communication - education and tutoring - lightweight analytical tools built in R\nIf that overlaps with what you are working on, take a look at the services page or reach out directly.\nGet in touch"
+  },
+  {
+    "objectID": "tn-housing-trends.html",
+    "href": "tn-housing-trends.html",
+    "title": "Neighborhood Housing Trends",
+    "section": "",
+    "text": "Project\n\n\nAn interactive R Shiny app for exploring home values and recent price changes across neighborhoods in a given city. Follow this link to try the app yourself: Neighborhood Housing Trends\n\n\n\n\n\nScreenshot of Neighborhood Housing Trends app\n\n\n\n\n\n\nInteractive mapping application\n\n\n\nR, Shiny, Leaflet, sf, dplyr\n\n\n\nHousing trends by neighborhood, presented in an interactive interface\n\n\n\n\nThis project grew out of an interest in making housing data easier to explore at a local level. Housing discussions often jump quickly to state or national averages, but those summaries can hide the fact that nearby places may be moving in very different ways. I wanted to build something more grounded: a tool that lets a user explore how prices and growth vary across neighborhoods in a given city.\nThe result is an interactive application built in R with Shiny. It combines housing data with geographic boundaries and presents the results through a map-based interface, so the user can see neighborhood level housing trends.\n\nThe aim was not just to display data, but to make neighborhood variation easier to notice and easier to interpret.\n\n\n\n\nIn practical terms, this is most useful for people trying to understand a city at a neighborhood level. Someone considering a move can quickly compare affordability and recent price trends across areas, while someone working in housing or development can use it as a fast way to scan for local differences worth investigating further.\nThe aim is not to answer every question, but to make the first pass through the data easier and more informative.\n\n\n\n\nAn interactive map interface for exploring housing trends at a neighborhood level\nViews centered on home values and recent change over time\nA structure that combines geographic boundaries with housing data in a way that supports quick and easy comparison\n\nI was especially interested in building a project that moved beyond a static chart. The map interface makes it possible to scan for broad patterns first and then narrow in on places that look unusual or worth investigating further.\n\n\n\nThe repository uses Zillow Home Value Index data and Census boundary data, and the codebase is written entirely in R. The repository includes an app.R file for the Shiny application along with supporting data and scripts, and the current README describes the project as an analysis of neighborhood housing trends. :contentReferenceoaicite:0\nFrom a tooling perspective, this project sits in a space I like a great deal: lightweight analytical tools that are technically serious but still readable. The emphasis was on using R not just for analysis, but also for presentation.\n\n\n\nThis project reinforced a lesson that comes up often in quantitative work: once the core analysis is in place, the next challenge is usually one of structure. What should be compared? What deserves visual emphasis? What makes a user trust what they are seeing?\nIt also reminded me that interactive projects benefit from restraint. A useful map does not need ten controls or a complicated story. It needs a few meaningful comparisons, a clear visual hierarchy, and enough context for the user to stay oriented.\n\n\n\n\nNeighborhood Housing App GitHub repository Back to projects\n\nReturn to the homepage"
+  },
+  {
+    "objectID": "tn-housing-trends.html#overview",
+    "href": "tn-housing-trends.html#overview",
+    "title": "Neighborhood Housing Trends",
+    "section": "",
+    "text": "This project grew out of an interest in making housing data easier to explore at a local level. Housing discussions often jump quickly to state or national averages, but those summaries can hide the fact that nearby places may be moving in very different ways. I wanted to build something more grounded: a tool that lets a user explore how prices and growth vary across neighborhoods in a given city.\nThe result is an interactive application built in R with Shiny. It combines housing data with geographic boundaries and presents the results through a map-based interface, so the user can see neighborhood level housing trends.\n\nThe aim was not just to display data, but to make neighborhood variation easier to notice and easier to interpret."
+  },
+  {
+    "objectID": "tn-housing-trends.html#why-this-project-mattered",
+    "href": "tn-housing-trends.html#why-this-project-mattered",
+    "title": "Neighborhood Housing Trends",
+    "section": "",
+    "text": "Housing is a good example of a topic where presentation matters almost as much as analysis. A table can contain the right numbers and still make comparison difficult. A map can make those differences intuitive, but only if the interface is clean and the measures are chosen carefully.\nWhat interested me here was the combination of quantitative and communicative work. The challenge was not only to calculate recent changes in home values, but also to present those changes in a form that a nontechnical user could explore without much explanation."
+  },
+  {
+    "objectID": "tn-housing-trends.html#what-i-built",
+    "href": "tn-housing-trends.html#what-i-built",
+    "title": "Neighborhood Housing Trends",
+    "section": "",
+    "text": "An interactive map interface for exploring housing trends at a neighborhood level\nViews centered on home values and recent change over time\nA structure that combines geographic boundaries with housing data in a way that supports quick and easy comparison\n\nI was especially interested in building a project that moved beyond a static chart. The map interface makes it possible to scan for broad patterns first and then narrow in on places that look unusual or worth investigating further."
+  },
+  {
+    "objectID": "tn-housing-trends.html#data-and-tools",
+    "href": "tn-housing-trends.html#data-and-tools",
+    "title": "Neighborhood Housing Trends",
+    "section": "",
+    "text": "The repository uses Zillow Home Value Index data and Census boundary data, and the codebase is written entirely in R. The repository includes an app.R file for the Shiny application along with supporting data and scripts, and the current README describes the project as an analysis of neighborhood housing trends. :contentReferenceoaicite:0\nFrom a tooling perspective, this project sits in a space I like a great deal: lightweight analytical tools that are technically serious but still readable. The emphasis was on using R not just for analysis, but also for presentation."
+  },
+  {
+    "objectID": "tn-housing-trends.html#what-i-learned",
+    "href": "tn-housing-trends.html#what-i-learned",
+    "title": "Neighborhood Housing Trends",
+    "section": "",
+    "text": "This project reinforced a lesson that comes up often in quantitative work: once the core analysis is in place, the next challenge is usually one of structure. What should be compared? What deserves visual emphasis? What makes a user trust what they are seeing?\nIt also reminded me that interactive projects benefit from restraint. A useful map does not need ten controls or a complicated story. It needs a few meaningful comparisons, a clear visual hierarchy, and enough context for the user to stay oriented."
+  },
+  {
+    "objectID": "tn-housing-trends.html#links",
+    "href": "tn-housing-trends.html#links",
+    "title": "Neighborhood Housing Trends",
+    "section": "",
+    "text": "Neighborhood Housing App GitHub repository Back to projects\n\nReturn to the homepage"
+  },
+  {
+    "objectID": "index.html#what-i-do",
+    "href": "index.html#what-i-do",
+    "title": "Shuler Hopkins",
+    "section": "",
+    "text": "Data cleaning, exploratory analysis, regression, hypothesis testing, and interpretation for projects that need clear reasoning and useful results.\n\n\n\nOne-on-one support in statistics, calculus, and data analysis, with an emphasis on understanding rather than memorization.\n\n\n\nShort-term help with research workflows, technical writing, reports, and lightweight analytical tools built in R."
+  },
+  {
+    "objectID": "index.html#how-i-work",
+    "href": "index.html#how-i-work",
+    "title": "Shuler Hopkins",
+    "section": "",
+    "text": "I like work that is technically sound, visually clean, and honest about uncertainty. In practice, that usually means starting with the real question, keeping the methods proportionate to the problem, and communicating results in a way that another person can actually use."
+  },
+  {
+    "objectID": "index.html#background",
+    "href": "index.html#background",
+    "title": "Shuler Hopkins",
+    "section": "",
+    "text": "I have a Ph.D. in Mathematics and experience teaching mathematics, statistics, data science, and computer science. Much of my work has involved organizing difficult material, building structure around it, and making it more understandable to the people who need it."
+  },
+  {
+    "objectID": "index.html#current-interests",
+    "href": "index.html#current-interests",
+    "title": "Shuler Hopkins",
+    "section": "",
+    "text": "Right now, I am especially interested in applied statistics, analytical communication, education, and small tools that make quantitative work more approachable.\n\nBuilt with Quarto and R. Keeping things simple."
+  },
+  {
+    "objectID": "tn-housing-trends.html#why-this-project-is-useful",
+    "href": "tn-housing-trends.html#why-this-project-is-useful",
+    "title": "Neighborhood Housing Trends",
+    "section": "",
+    "text": "In practical terms, this is most useful for people trying to understand a city at a neighborhood level. Someone considering a move can quickly compare affordability and recent price trends across areas, while someone working in housing or development can use it as a fast way to scan for local differences worth investigating further.\nThe aim is not to answer every question, but to make the first pass through the data easier and more informative."
+  }
+]

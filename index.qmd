@@ -1,0 +1,66 @@
+---
+title: ""
+page-layout: full
+---
+
+::: {.landing-wrap}
+
+::: {.hero-block}
+# Shuler Hopkins
+
+::: {.hero-sub}
+Quantitative analysis, tutoring, and project support — done carefully, and explained clearly.
+:::
+
+::: {.hero-text}
+I work with students, researchers, and small organizations on statistical and analytical problems that need more than a quick answer. My background is in mathematics, data science, and teaching, and I tend to approach projects with equal attention to correctness, clarity, and structure.
+:::
+
+::: {.hero-actions}
+[Services](services.qmd){.btn-primary}
+[Projects](projects.qmd){.btn-secondary}
+[Contact](mailto:your_email_here@example.com){.btn-secondary}
+:::
+:::
+
+## What I do
+
+::: {.services-grid}
+
+::: {.service-card}
+### Statistical analysis
+
+Data cleaning, exploratory analysis, regression, hypothesis testing, and interpretation for projects that need clear reasoning and useful results.
+:::
+
+::: {.service-card}
+### Quantitative tutoring
+
+One-on-one support in statistics, calculus, and data analysis, with an emphasis on understanding rather than memorization.
+:::
+
+::: {.service-card}
+### Project support
+
+Short-term help with research workflows, technical writing, reports, and lightweight analytical tools built in R.
+:::
+
+:::
+
+## How I work
+
+I like work that is technically sound, visually clean, and honest about uncertainty. In practice, that usually means starting with the real question, keeping the methods proportionate to the problem, and communicating results in a way that another person can actually use.
+
+## Background
+
+I have a Ph.D. in Mathematics and experience teaching mathematics, statistics, data science, and computer science. Much of my work has involved organizing difficult material, building structure around it, and making it more understandable to the people who need it.
+
+## Current interests
+
+Right now, I am especially interested in applied statistics, analytical communication, education, and small tools that make quantitative work more approachable.
+
+::: {.bottom-note}
+Built with Quarto and R. Keeping things simple.
+:::
+
+:::

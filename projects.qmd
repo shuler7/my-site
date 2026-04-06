@@ -1,0 +1,17 @@
+---
+title: "Projects"
+---
+
+Here are a few examples of analytical and technical work. Each project page includes a short writeup on the problem, the implementation, and what I learned from building it.
+
+::: {.services-grid}
+
+::: {.service-card}
+### [Neighborhood Housing Trends](tn-housing-trends.qmd)
+
+An interactive housing project built in R and Shiny, focused on home values and growth at a neighborhood level.
+
+[Read project](tn-housing-trends.qmd){.btn-primary}
+:::
+
+:::
