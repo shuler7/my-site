@@ -2,8 +2,90 @@
 title: "Services"
 ---
 
-## Data Analysis
-I help clean, analyze, and interpret your data.
+::: {.project-page}
 
-## Tutoring
-1-on-1 support for statistics and data science.
+::: {.project-subtitle}
+I help with statistical analysis, quantitative tutoring, and project-based analytical work, especially when the problem is real but the path forward is not yet clear.
+:::
+
+## What I can help with { .project-section }
+
+::: {.services-grid}
+
+::: {.service-card}
+### Statistical analysis
+
+Help with data cleaning, exploratory analysis, regression, hypothesis testing, interpretation, and presenting results clearly.
+
+This is a good fit for research projects, independent studies, theses, or applied questions where the data exists but the path forward is unclear.
+:::
+
+::: {.service-card}
+### Quantitative tutoring
+
+One-on-one support in statistics, calculus, data analysis, and related quantitative coursework.
+
+I am especially well suited for students who want more than procedural help and need someone who can explain the logic behind the methods.
+:::
+
+::: {.service-card}
+### Project support
+
+Short-term help with technical reports, research workflows, analytical tools, and quantitative writeups.
+
+This is often most useful when a project needs structure, revision, or a second pair of eyes from someone comfortable with both details and communication.
+:::
+
+:::
+
+## Who this is for { .project-section }
+
+My work is usually most useful for a few kinds of people:
+
+- students working through statistics, calculus, or data analysis
+- researchers with data they need help cleaning, analyzing, or explaining
+- people with a technical or analytical project that needs structure
+- small organizations that need clear, careful quantitative help without a large consulting engagement
+
+In general, I am a good fit for projects where the main need is not just computation, but judgment: choosing a reasonable method, organizing the work clearly, and explaining the result in plain language.
+
+## How I tend to work { .project-section }
+
+I prefer to begin with the actual problem rather than a predetermined method. Sometimes that leads to a model or a formal test; sometimes it leads to a simpler answer, which is often better.
+
+My bias is toward work that is:
+- technically sound
+- clearly written
+- proportionate to the question
+- honest about uncertainty
+
+I am generally less interested in adding complexity for its own sake than in making the work accurate, readable, and useful.
+
+## Examples of support I can provide { .project-section }
+
+Depending on the project, that might include:
+
+- helping clean and organize a dataset
+- identifying an appropriate statistical approach
+- checking and improving a quantitative writeup
+- building simple visualizations or summaries in R
+- walking through a difficult topic one-on-one
+- helping shape a project that has become too broad or disorganized
+
+## A note on fit { .project-section }
+
+The work I do is usually best when the question is real and the person asking it is engaged. I am probably not the right fit for situations where someone wants a rushed answer with no interest in understanding the reasoning. I am a much better fit for people who want careful work, clear explanation, and a finished result that makes sense.
+
+## Contact { .project-section }
+
+If you have a project or question, feel free to reach out.
+
+**shuler.hopkins7@gmail.com**
+
+::: {.project-links}
+[Email me](mailto:shuler.hopkins7@gmail.com?subject=Inquiry%20from%20website){.btn-primary target="_blank" rel="noopener noreferrer"}
+[See projects](projects.qmd){.btn-secondary}
+[Back to home](index.qmd){.btn-secondary}
+:::
+
+:::

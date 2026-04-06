@@ -19,8 +19,10 @@ I work with students, researchers, and small organizations on statistical and an
 ::: {.hero-actions}
 [Services](services.qmd){.btn-primary}
 [Projects](projects.qmd){.btn-secondary}
-[Contact](mailto:your_email_here@example.com){.btn-secondary}
+[Contact](mailto:shuler.hopkins7@gmail.com?subject=Inquiry%20from%20website){.btn-secondary target="_blank" rel="noopener noreferrer"}
 :::
+
+[shuler.hopkins7@gmail.com](mailto:shuler.hopkins7@gmail.com?subject=Inquiry%20from%20website){target="_blank" rel="noopener noreferrer"}
 :::
 
 ## What I do

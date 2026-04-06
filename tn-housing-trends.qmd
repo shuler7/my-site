@@ -60,7 +60,7 @@ I was especially interested in building a project that moved beyond a static cha
 
 ## Data and tools { .project-section }
 
-The repository uses Zillow Home Value Index data and Census boundary data, and the codebase is written entirely in R. The repository includes an `app.R` file for the Shiny application along with supporting data and scripts, and the current README describes the project as an analysis of neighborhood housing trends. :contentReference[oaicite:0]{index=0}
+The repository uses Zillow Home Value Index data and Census boundary data, and the codebase is written entirely in R. The repository includes an `app.R` file for the Shiny application along with supporting data and scripts, and the current README describes the project as an analysis of neighborhood housing trends.
 
 From a tooling perspective, this project sits in a space I like a great deal: lightweight analytical tools that are technically serious but still readable. The emphasis was on using R not just for analysis, but also for presentation.
 
